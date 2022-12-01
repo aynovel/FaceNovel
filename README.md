@@ -63,9 +63,11 @@ QMUI Android 支持 API Level 21+。
 
 ![FaceNovel Website](https://novelclub.oss-us-west-1.aliyuncs.com/upload/img/20221201204433.jpg)
 
+![FaceNovel Website](https://novelclub.oss-us-west-1.aliyuncs.com/upload/img/20221201204443.jpg)
+
 ![FaceNovel Website](https://novelclub.oss-us-west-1.aliyuncs.com/upload/img/20221201204438.jpg)
 
-![FaceNovel Website](https://novelclub.oss-us-west-1.aliyuncs.com/upload/img/20221201204443.jpg)
+
 
 
 
